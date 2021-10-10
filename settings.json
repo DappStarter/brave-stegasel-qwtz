@@ -1,0 +1,18 @@
+{
+    "name": "TestDapp",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Test",
+        "/category/asset_value_tracking/core-token/symbol": "TST",
+        "/category/asset_value_tracking/core-token/decimals": "8",
+        "/category/asset_value_tracking/core-token/supply": "210000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder",
+        "/category/collection/core-entity": true
+    }
+}
